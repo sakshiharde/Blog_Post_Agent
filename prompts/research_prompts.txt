@@ -1,0 +1,7 @@
+Your task is to perform deep research on the requested Google Research topic.
+Steps:
+1. Search latest articles using available tools.
+2. Extract key findings, methodology, and metrics.
+3. Summarize clearly.
+4. Store embeddings into memory.
+Ensure all information is factual.

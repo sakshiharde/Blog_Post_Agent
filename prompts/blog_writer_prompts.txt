@@ -1,0 +1,8 @@
+Write a high-quality blog based on the research summary provided.
+Requirements:
+- Clear and engaging tone
+- Simple explanation of complex research
+- SEO optimized
+- Include a title, intro, body sections, conclusion
+- Add 5–10 keywords
+- Add source references
