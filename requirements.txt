@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+requests
+beautifulsoup4
+feedparser
+faiss-cpu
+sentence-transformers
+flask
